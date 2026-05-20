@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "releaseDate": "2026-05-20",
+  "changelog": [
+    "Первый релиз VexisClient",
+    "Добавлена система защиты",
+    "Добавлена система обновлений",
+    "Полная интеграция с лоадером"
+  ],
+  "downloadUrl": "https://github.com/YOUR_USERNAME/vexisclient-updates/releases/download/v1.0.0/vexisclient-1.0.0.zip",
+  "minLoaderVersion": "1.0.0",
+  "required": false
+}
