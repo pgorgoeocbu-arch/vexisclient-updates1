@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "build": 1,
+  "build": 2,
   "releaseDate": "2026-05-20",
   "changelog": [
     "Первый релиз VexisClient",
@@ -8,7 +8,7 @@
     "Добавлена система обновлений",
     "Полная интеграция с лоадером"
   ],
-  "downloadUrl": "https://www.dropbox.com/scl/fi/ku0kwb7oczd6tec2unzyl/vexisclient-1.0.0.zip?rlkey=uzelppmh3727tsygak5g81i89&st=5o2b3go5&dl=1",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/9m1ycn4c8ca2t1dg9x218/vexisclient-1.0.0.zip?rlkey=fal30q7y1890epc9xagwtgnjr&st=9t7n5qa7&dl=1",
   "minLoaderVersion": "1.0.0",
   "required": false
 }
